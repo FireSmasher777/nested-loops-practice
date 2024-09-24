@@ -6,7 +6,7 @@ if a < 0:
 if b < 0:
   b = -b 
 
-while b >0:
+while b > 0:
   while b <= a:
     a = a - b
   c = a
@@ -22,6 +22,10 @@ while b >0:
 
 print()
 print("Final count of a is", a)
+
+
+
+print()
 
 num = int(input())
 if num > 0:
