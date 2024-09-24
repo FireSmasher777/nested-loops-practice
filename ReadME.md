@@ -5,7 +5,7 @@ I have no clue if this will be useful but if it is, great! But it is some random
  While loops were nested to figure out the numerical value of three varaibles being a, b, and c.
 
 
-## There is an input section that figures what number has a positive/negative value.
+## There is an input section that figures what number has a positive/negative value. In a opposite manner. (ex: user inputs 1 --> output: -1)
 
 
 
